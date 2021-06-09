@@ -1,6 +1,3 @@
-# collaborating2
-
-
 
 ## Ahmet Yanik
 
